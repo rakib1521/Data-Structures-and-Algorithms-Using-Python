@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms-Using-Python
+# Data Structures and Algorithms Using Python
 Basic data structures and algorithms implementation using python 
 
 # Search
