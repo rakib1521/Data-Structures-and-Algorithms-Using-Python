@@ -20,6 +20,7 @@ Basic data structures and algorithms implementation using python
 # [Tree Traversal](https://github.com/rakib1521/Data-Structures-and-Algorithms-Using-Python/tree/main/BFS_DFS)
 * BFS
 * DFS 
+* Kruskal
 
 # [Stack and Queue](https://github.com/rakib1521/Data-Structures-and-Algorithms-Using-Python/tree/main/Stack%20and%20Queue)
 
