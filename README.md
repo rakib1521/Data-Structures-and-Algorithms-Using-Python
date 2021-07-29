@@ -21,6 +21,7 @@ Basic data structures and algorithms implementation using python
 * BFS
 * DFS 
 * Kruskal
+* Prims
 * Dijkstra
 
 # [Stack and Queue](https://github.com/rakib1521/Data-Structures-and-Algorithms-Using-Python/tree/main/Stack%20and%20Queue)
